@@ -1,0 +1,19 @@
+h1 {
+    margin-top: 80px;
+}
+
+#carousel {
+    height: 80px;
+    padding: 10px 100px 20px;
+    margin: 80px;
+}
+
+
+
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+.carousel-control-next {
+    filter: invert(100%);
+}
